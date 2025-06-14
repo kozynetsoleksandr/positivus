@@ -1,7 +1,17 @@
-@import "normalize", "media", "mixins", "utils", "globals", "fonts", "variables";
+@import 
+    "normalize", 
+    "media", 
+    "mixins", 
+    "utils", 
+    "globals", 
+    "fonts", 
+    "variables";
 
-@import "./blocks/button";
-@import "./blocks/burger-button";
-@import "./blocks/header";
-@import "./blocks/cross-button";
-@import "./blocks/mobile-overlay";
+@import 
+    "./blocks/button",
+    "./blocks/burger-button",
+    "./blocks/header",
+    "./blocks/cross-button",
+    "./blocks/mobile-overlay",
+    "./blocks/section",
+    "./blocks/hero";
